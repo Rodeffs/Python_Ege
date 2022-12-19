@@ -1,3 +1,3 @@
 # Python Ege
 
-Python code that I wrote during preparation for EGE
+Python code that I wrote during preparation for EGE during 2021-2022
